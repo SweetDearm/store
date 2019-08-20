@@ -93,7 +93,6 @@ export default {
       ], 
       nowInput: '',
       resout: [],
-     
     }
     
   },
