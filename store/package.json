@@ -1,0 +1,36 @@
+{
+    "name": "acc",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve --port 8080 --host 127.0.0.1",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "axios": "^0.19.0",
+        "core-js": "^2.6.5",
+        "element-ui": "^2.10.1",
+        "node-bus": "^0.3.4",
+        "vue": "^2.6.10",
+        "vue-piczoom": "^1.0.6",
+        "vue-router": "^3.0.3",
+        "vue2.0-zoom": "^2.1.1",
+        "vuex": "^3.1.1"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.9.0",
+        "@vue/cli-service": "^3.9.0",
+        "jquery": "^3.4.1",
+        "normalize.css": "^8.0.1",
+        "vue-template-compiler": "^2.6.10"
+    },
+    "postcss": {
+        "plugins": {
+            "autoprefixer": {}
+        }
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ]
+}

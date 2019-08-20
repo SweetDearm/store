@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a,
+ul {
+    text-decoration: none;
+    color: #333;
+    list-style: none;
+}
+
+.headers,
+.middles,
+.footers {
+    width: 100%;
+    margin: auto;
+}
+
+.headerlog .cartlump a:hover,
+.sales .sales-ul li span:hover,
+.middles .first .pic a:hover,
+.middles .commodity .titlebar .more:hover,
+.overall .right-part .item a:hover,
+.ring a:hover {
+    color: #FF8A43;
+}
+
+.top-bg,
+.cartlump,
+span,
+a {
+    font-size: 14px;
+    font-family: Arial, 微软雅黑, 宋体;
+}
